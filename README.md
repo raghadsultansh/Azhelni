@@ -1,4 +1,4 @@
-## 🍽️ ازهلني – Smart Meal Planning App Based on Saudi Cuisine
+## 🍽️ ازهلني – Smart Meal Planning App
 
 **ازهلني** is a full-stack mobile application developed for the CS447 App Development course. It helps users generate daily meal plans based on their personal nutrition goals (calories, protein, carbs, fats) and suggests realistic meals that align with typical Saudi household ingredients.
 
